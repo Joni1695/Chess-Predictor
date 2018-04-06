@@ -1,1 +1,3 @@
 # Chess-Predictor
+Chess is a game full of patterns, that means it does offer a lot of options in the field of data mining. We decided to work with a dataset of chess games, that contains about 20000 played games recorded at the site Lichess.org, an online chess website. For each game, we also have a bunch of data such as player ratings etc.
+We aimed to use the data we have to train a classifier to be able to “predict” the outcome of a chess game based on set of parameters we’ll derive from the dataset. Finding out the winner of a game is a very interesting topic to explore. It can prove really useful for statistics of championships, betting etc.
